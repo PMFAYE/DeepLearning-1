@@ -1,0 +1,8 @@
+Nous pouvons remarquer, en variant le nombre de couches et le nombre de neurones dans la couche cachée, 
+que le temps de calcul augmente en meme temps que la qualite du modéle. Ainsi, on peut dire que plus l'architecture 
+plus la durée d'apprentissage est élevée et o gagne en précision sur les prédictions.
+
+On remarque les modèles de convolution on arrive à avoir 60,78% sur les données de validation d'accuracy et 60.78% sur 
+les données de test avec 20 seulement, ce qui montre qu'on peut améliorer le modèle en augmentant 
+par exemple le nombre de couches. Ceci montre l'éfficacité des de ces modèles pour la reconnaissances 
+d'image par rapport aux modèles NLP
